@@ -3,6 +3,8 @@
 A Simple Next.js Application used for Tracking Prices of your favorite 'Amazon' Prices and helping you find the lowest prices so you have to 'pay less'.
 [🔗](https://pay-less.vercel.app/)
 
+![image](https://github.com/alien-droid/PayLess/assets/77412085/0e373b34-c022-46ed-aa09-327268086486)
+
 ⚡ Tech Stack
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
