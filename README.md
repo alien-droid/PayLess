@@ -6,7 +6,7 @@ A Simple Next.js Application used for Tracking Prices of your favorite 'Amazon' 
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)&nbsp;
-[!Next.js](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=Next.js)
+![Next.js](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=Next.js)
 
 ## Getting Started
 
