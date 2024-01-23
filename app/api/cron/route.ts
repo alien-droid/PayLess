@@ -2,6 +2,11 @@ import Product from "@/lib/models/product.model"
 import { connectToDB } from "@/lib/mongoose"
 import { scrapeAmazonProduct } from "@/lib/scraper"
 import { getAveragePrice, getHighestPrice, getLowestPrice } from "@/lib/utils"
+import { NextResponse } from "next/server"
+
+export const maxDuration = 300
+export const dynamic = 'force-dynamic'
+export const revalidate = 0
 
 export async function GET() {
     try {
@@ -30,12 +35,16 @@ export async function GET() {
                 }    
                 
                 const updatedProd = await Product.findOneAndUpdate(
-                    {url: scrapedProd.url},
+                    {url: prod.url},
                     prod
                 )
+                
+                return updatedProd
             })
         )
-
+        return NextResponse.json({
+            message: 'Ok', data: updatedProducts 
+        })
 
     } catch (error) {
         throw new Error(`Error in Get : ${error}`)
