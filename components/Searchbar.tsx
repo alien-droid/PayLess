@@ -1,6 +1,6 @@
 "use client"
 import { scrapeStoreProduct } from '@/lib/actions'
-import {useState} from 'react'
+import {FormEvent, useState} from 'react'
 
 const isValidAmazonLink = (url: string) => {
   try {
