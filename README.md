@@ -3,6 +3,11 @@
 A Simple Next.js Application used for Tracking Prices of your favorite 'Amazon' Prices and helping you find the lowest prices so you have to 'pay less'.
 [🔗](https://pay-less.vercel.app/)
 
+###
+- Scraped Using the [Bright Data](https://brightdata.com/products/scraping-browser) and using the [Cheerio](https://cheerio.js.org/) Library.
+- Used MongoDB/NoSQL for storing the Data.
+
+
 ![image](https://github.com/alien-droid/PayLess/assets/77412085/0e373b34-c022-46ed-aa09-327268086486)
 
 ⚡ Tech Stack
@@ -10,6 +15,9 @@ A Simple Next.js Application used for Tracking Prices of your favorite 'Amazon' 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=Next.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
+
+
 
 ## Getting Started
 
