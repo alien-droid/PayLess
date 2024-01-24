@@ -12,8 +12,8 @@ A Simple Next.js Application used for Tracking Prices of your favorite 'Amazon' 
 
 ⚡ Tech Stack
 
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=Next.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
 
