@@ -4,7 +4,7 @@ A Simple Next.js Application used for Tracking Prices of your favorite 'Amazon' 
 [🔗](https://pay-less.vercel.app/)
 
 ###
-- Scraped Using the [Bright Data](https://brightdata.com/products/scraping-browser) and using the [Cheerio](https://cheerio.js.org/) Library.
+- Scraped Using the [Bright Data](https://brightdata.com/products/scraping-browser) and Parsing using the [Cheerio](https://cheerio.js.org/) Library.
 - Used MongoDB/NoSQL for storing the Data.
 
 
